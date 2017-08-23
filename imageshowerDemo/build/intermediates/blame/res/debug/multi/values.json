@@ -1,0 +1,203 @@
+[
+    {
+        "outputFile": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 52,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 52,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 52,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 52,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 50,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 50,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 60,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 60,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 706
+                    }
+                }
+            }
+        ]
+    }
+]

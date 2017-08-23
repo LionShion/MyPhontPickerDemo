@@ -1,0 +1,2 @@
+include ':app', ':photopicker', ':PhotoPicker-master'
+include ':imageshowerDemo'

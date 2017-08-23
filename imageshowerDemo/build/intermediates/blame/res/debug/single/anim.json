@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\anim\\head_in.xml"
+    }
+]

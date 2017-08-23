@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\mian.xml",
+        "source": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\layout\\mian.xml"
+    },
+    {
+        "merged": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\imageshower.xml",
+        "source": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\layout\\imageshower.xml"
+    },
+    {
+        "merged": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_imageloading.xml",
+        "source": "D:\\workspace2\\MyPhontPickerDemo\\imageshowerDemo\\src\\main\\res\\layout\\dialog_imageloading.xml"
+    }
+]
